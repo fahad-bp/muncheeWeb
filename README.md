@@ -1,0 +1,2 @@
+# muncheeWeb
+Static Website
